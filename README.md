@@ -1,5 +1,6 @@
 <h1 align="center">Hey, I'm Arturo Macías 🤖</h1>
 <h3 align="center">Machine Learning Engineer from Mexico</h3>
+<img aligh="right" alt="homer" width="400" scr="https://i.pinimg.com/originals/6d/2b/97/6d2b9727f173672064a02a1dde429eff.gif">
 
 - 👨‍💻 I’m currently working on **ML Algorithms**
 
