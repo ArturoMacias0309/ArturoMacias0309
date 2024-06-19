@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Arturo Macías 🤖</h1>
-<h3 align="center">Impassioned Machine Learning Engineer</h3>
+<h3 align="center">Machine Learning Engineer from Mexico</h3>
 
 - 👨‍💻 I’m currently working on **ML Algorithms**
 
@@ -9,9 +9,8 @@
 
 - 📫 How to reach me **arturomaciaas@protonmail.com**
 
-- ⚡ Fun fact **I play guitar**
+- ⚡ Fun fact, **I play guitar!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
